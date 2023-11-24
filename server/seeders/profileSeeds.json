@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Jordan Fisher",
+    "email": "jfisher@techinnovate.dev",
+    "password": "securePass01",
+    "skills": ["Python", "Django", "REST APIs"]
+  },
+  {
+    "name": "Ava Clarke",
+    "email": "aclarke@techinnovate.dev",
+    "password": "securePass02",
+    "skills": ["JavaScript", "React", "Node.js"]
+  },
+  {
+    "name": "Haruto Nakamura",
+    "email": "hnakamura@techinnovate.dev",
+    "password": "securePass03",
+    "skills": ["Angular", "TypeScript", "Webpack"]
+  },
+  {
+    "name": "Sophia Torres",
+    "email": "storres@techinnovate.dev",
+    "password": "securePass04",
+    "skills": ["Cloud Computing", "AWS", "Azure"]
+  },
+  {
+    "name": "Ethan Bernard",
+    "email": "ebernard@techinnovate.dev",
+    "password": "securePass05",
+    "skills": ["IoT", "Machine Learning"]
+  },
+  {
+    "name": "Olivia Smith",
+    "email": "osmith@techinnovate.dev",
+    "password": "securePass06",
+    "skills": ["UX/UI Design", "Adobe Suite", "Figma"]
+  },
+  {
+    "name": "Ryuichi Tanaka",
+    "email": "rtanaka@techinnovate.dev",
+    "password": "securePass07",
+    "skills": ["Ruby on Rails", "PostgreSQL", "Heroku"]
+  },
+  {
+    "name": "Emma Johnson",
+    "email": "ejohnson@techinnovate.dev",
+    "password": "securePass08",
+    "skills": ["Data Science", "R", "Python"]
+  },
+  {
+    "name": "Noah Lee",
+    "email": "nlee@techinnovate.dev",
+    "password": "securePass09",
+    "skills": ["Embedded Systems", "C++", "Microcontrollers"]
+  },
+  {
+    "name": "Isabella Garcia",
+    "email": "igarcia@techinnovate.dev",
+    "password": "securePass10",
+    "skills": ["Blockchain", "Ethereum", "Smart Contracts"]
+  }
+]
